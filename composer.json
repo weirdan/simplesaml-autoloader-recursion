@@ -1,0 +1,12 @@
+{
+    "name": "weirdan/simplesaml-autoloader-recursion",
+    "require": {
+        "simplesamlphp/simplesamlphp": "dev-master"
+    },
+    "authors": [
+        {
+            "name": "Bruce Weirdan",
+            "email": "weirdan@gmail.com"
+        }
+    ]
+}
